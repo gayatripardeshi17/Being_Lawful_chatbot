@@ -10,6 +10,10 @@ einops
 gunicorn
 langchain-community
 langchain-together
+flask
+nomic
+
+
 
 
 
