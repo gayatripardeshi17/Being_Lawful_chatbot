@@ -8,4 +8,6 @@ streamlit
 langchain-fireworks
 einops
 gunicorn
+langchain-community
+
 
