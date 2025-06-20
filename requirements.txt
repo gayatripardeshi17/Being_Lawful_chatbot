@@ -9,5 +9,7 @@ langchain-fireworks
 einops
 gunicorn
 langchain-community
+langchain-together
+
 
 
